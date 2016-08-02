@@ -1,0 +1,8 @@
+You can use arrow keys to navigate avatar to move around in 3D world.
+Also the Sun object is rotate in world environment every 1 min,
+so the color of light would change according to position of Sun.
+
+The texture of tree and road can be changed, if replace pictures in root folder with
+other pictures and same file names.
+
+
