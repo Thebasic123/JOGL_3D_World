@@ -1,4 +1,4 @@
-package ass2.spec;
+package World.spec;
 
 import java.awt.Dimension;
 import java.io.File;
@@ -15,7 +15,7 @@ import org.json.JSONTokener;
 /**
  * LevelIO class, turns the given file into a terrain object, and vice versa
  *
- * @author malcolmr, John Gilhuly
+ * @author John Gilhuly
  */
 public class LevelIO {
 

@@ -1,4 +1,4 @@
-package ass2.spec;
+package World.spec;
 
 import java.awt.image.BufferedImage;
 import java.io.File;

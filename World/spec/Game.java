@@ -1,4 +1,4 @@
-package ass2.spec;
+package World.spec;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -17,7 +17,7 @@ import com.jogamp.opengl.util.FPSAnimator;
 /**
  * Game class, initializes lighting and runs display loop
  *
- * @author malcolmr, John Gilhuly, Fufu Hu
+ * @author  Fufu Hu
  */
 @SuppressWarnings("serial")
 public class Game extends JFrame implements GLEventListener {

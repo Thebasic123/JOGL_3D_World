@@ -1,10 +1,10 @@
-package ass2.spec;
+package World.spec;
 
 /**
  * RobotInfo class, holds coordinates to draw a robot as an other
  * Currently non-functional
  * 
- * @author John Gilhuly
+ * @author John Gilhuly, Fufu Hu
  *
  */
 public class RobotInfo {

@@ -1,4 +1,4 @@
-package ass2.spec;
+package World.spec;
 
 import java.awt.Dimension;
 import java.util.ArrayList;
@@ -12,7 +12,7 @@ import javax.media.opengl.GL2;
  * Terrain class, contains trees, road, and others. Draws each. Also contains
  * camera
  *
- * @author malcolmr, John Gilhuly, Fufu Hu
+ * @author John Gilhuly, Fufu Hu
  */
 public class Terrain {
 

@@ -1,4 +1,4 @@
-package ass2.spec;
+package World.spec;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
@@ -10,7 +10,7 @@ import javax.media.opengl.glu.GLU;
  * Camera Class, controls the camera position and movement, and holds the Avatar
  * class. Also controls the torch
  * 
- * @author John Gilhuly
+ * @author Fufu Hu
  *
  */
 public class Camera implements KeyListener {

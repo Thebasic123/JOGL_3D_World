@@ -1,4 +1,4 @@
-package ass2.spec;
+package World.spec;
 
 /**
  * MathUtil class, contains math utility methods

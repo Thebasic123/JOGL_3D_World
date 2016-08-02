@@ -1,4 +1,4 @@
-package ass2.spec;
+package World.spec;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -12,7 +12,7 @@ import javax.media.opengl.glu.GLUquadric;
 /**
  * Tree class, contains tree info and draws itself
  *
- * @author malcolmr, John Gilhuly, Fufu Hu
+ * @author Fufu Hu
  */
 public class Tree {
 

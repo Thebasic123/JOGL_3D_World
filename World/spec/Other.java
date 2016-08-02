@@ -1,4 +1,4 @@
-package ass2.spec;
+package World.spec;
 
 import java.nio.FloatBuffer;
 import java.nio.ShortBuffer;
@@ -14,7 +14,7 @@ import com.jogamp.common.nio.Buffers;
  * 
  * Adapted from class example: Triangle VBO Shader
  *
- * @author John Gilhuly
+ * @author Fufu HU
  */
 
 public class Other {

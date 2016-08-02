@@ -1,4 +1,4 @@
-package ass2.spec;
+package World.spec;
 
 import javax.media.opengl.GL2;
 
@@ -7,7 +7,7 @@ import com.jogamp.opengl.util.gl2.GLUT;
 /**
  * Avatar class, holds info about the avatar, and draws itself
  * 
- * @author John Gilhuly
+ * @author John Gilhuly,Fufu Hu
  *
  */
 public class Avatar {

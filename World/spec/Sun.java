@@ -1,11 +1,11 @@
-package ass2.spec;
+package World.spec;
 
 import javax.media.opengl.GL2;
 
 /**
  * Sun class, stores info about the Sun and Moon, and updates their position
  * 
- * @author John Gilhuly
+ * @author Fufu Hu
  *
  */
 public class Sun {

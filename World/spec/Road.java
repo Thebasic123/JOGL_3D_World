@@ -1,4 +1,4 @@
-package ass2.spec;
+package World.spec;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,7 +8,7 @@ import javax.media.opengl.GL2;
 /**
  * Road class, holds the info for the road and draws itself
  *
- * @author malcolmr, Fufu Hu
+ * @author Fufu Hu
  */
 public class Road {
 
